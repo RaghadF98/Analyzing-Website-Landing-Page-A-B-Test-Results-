@@ -13,10 +13,3 @@ Part II - A/B Test
 
 Part III - Regression
 
-Finding: 1. The p-value associated with ab_page is 0.190. The null in c-e part is that there is no difference between the treatment and control group. Alternative hypotheses is that there is difference between between the treatment and control group
-
-Part II assumes the old page is better unless the new page proves to be definitely better at a Type I error rate of 5%, compared to question c-e,they have different explainory varibale or factor for the result.
-
-Country Factors: I create Logit regression model for conveted and country, and us CA and old page as baseline
-For every unit for UK increases, convert is 5.2% more to happen, holding all other varible constant.
-For every unit for US increases, convert is 4.2% more to happen, holding all other varible constant.
